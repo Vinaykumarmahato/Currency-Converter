@@ -72,7 +72,7 @@ The currency converter supports the following currencies:
 - VND (Vietnamese Đồng)
 - ZAR (South African Rand)
 ## Credits
-This project was created by ADV indian coder vinay kumar and is available on GitHub [link to your GitHub repository].
+This project was created by ADV indian coder vinay kumar and is available on GitHub https://github.com/ADVindiancoder/Currency-Converter/tree/main
 
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
